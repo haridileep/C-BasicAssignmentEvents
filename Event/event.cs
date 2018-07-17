@@ -34,16 +34,16 @@ namespace Neudesic.Events.ConsoleApp
                      goto eventMenu;
                     
                 case 2:
-                    for(int eveInp= 0;eveInp< eventDetails.EventName.Count;eveInp++)
+                    for(int eventInp= 0;eventInp< eventDetails.EventName.Count;eventInp++)
                     {
                         Console.Write("Event Id:\t");
-                        Console.Write(eveInp);
+                        Console.Write(eventInp);
                         Console.Write("\n");
                         Console.Write("Event name:\t");
-                        Console.Write(eventDetails.EventName[eveInp]);
+                        Console.Write(eventDetails.EventName[eventInp]);
                         Console.Write("\n");
                         Console.Write("Event Venue:\t");
-                        Console.Write(eventDetails.EventVenue[eveInp]);
+                        Console.Write(eventDetails.EventVenue[eventInp]);
                         Console.Write("\n");
                         Console.Write("Event Admin:\t");
                         Console.Write(eventDetails.EventAdmin);
