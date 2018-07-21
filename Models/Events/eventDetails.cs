@@ -9,10 +9,7 @@ namespace Neudesic.Events.Models
     public class EventDetails
     {
        public List<string> EventName { get; set; } = new List<string>();
-        public string EventAdmin { get; set; }
-        public List<string> EventVenue { get; set; } = new List<string>();
+       public List<string> EventVenue { get; set; } = new List<string>();
        public List<int> EventId { get; set; } = new List<int>();
-
-
     }
 }

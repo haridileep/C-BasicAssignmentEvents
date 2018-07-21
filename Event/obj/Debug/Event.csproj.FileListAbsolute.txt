@@ -1,0 +1,10 @@
+C:\Users\hari.dileepkumar\Source\Repos\Test\Event\obj\Debug\Event.csprojAssemblyReference.cache
+C:\Users\hari.dileepkumar\Source\Repos\Test\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+C:\Users\hari.dileepkumar\Source\Repos\Test\Event\obj\Debug\Test.exe
+C:\Users\hari.dileepkumar\Source\Repos\Test\Event\obj\Debug\Test.pdb
+C:\Users\hari.dileepkumar\Source\Repos\Test\Event\bin\Debug\Test.exe.config
+C:\Users\hari.dileepkumar\Source\Repos\Test\Event\bin\Debug\Test.exe
+C:\Users\hari.dileepkumar\Source\Repos\Test\Event\bin\Debug\Test.pdb
+C:\Users\hari.dileepkumar\Source\Repos\Test\Event\bin\Debug\Models.dll
+C:\Users\hari.dileepkumar\Source\Repos\Test\Event\bin\Debug\Models.pdb
+C:\Users\hari.dileepkumar\Source\Repos\Test\Event\obj\Debug\Event.csproj.CopyComplete
